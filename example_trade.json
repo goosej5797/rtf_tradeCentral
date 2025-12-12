@@ -1,0 +1,20 @@
+{"status": "complete", "type": "trade", "metadata": None, "created": 1760490285472, "settings": {"is_counter": 1
+    }, "leg": 6, "draft_picks": [
+        {"round": 1, "season": "2025", "league_id": None, "roster_id": 6, "owner_id": 7, "previous_owner_id": 6
+        },
+        {"round": 9, "season": "2025", "league_id": None, "roster_id": 6, "owner_id": 7, "previous_owner_id": 6
+        },
+        {"round": 2, "season": "2025", "league_id": None, "roster_id": 7, "owner_id": 6, "previous_owner_id": 7
+        },
+        {"round": 7, "season": "2025", "league_id": None, "roster_id": 7, "owner_id": 6, "previous_owner_id": 7
+        },
+        {"round": 3, "season": "2026", "league_id": None, "roster_id": 7, "owner_id": 6, "previous_owner_id": 7
+        }
+    ], "creator": "462080029765922816", "transaction_id": "1283992956100943872", "adds": None, "drops": None, "consenter_ids": [
+        6,
+        7
+    ], "roster_ids": [
+        6,
+        7
+    ], "status_updated": 1760490342584, "waiver_budget": []
+}
