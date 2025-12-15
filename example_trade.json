@@ -1,20 +1,66 @@
-{"status": "complete", "type": "trade", "metadata": None, "created": 1760490285472, "settings": {"is_counter": 1
-    }, "leg": 6, "draft_picks": [
-        {"round": 1, "season": "2025", "league_id": None, "roster_id": 6, "owner_id": 7, "previous_owner_id": 6
+{
+    "status": "complete",
+    "type": "trade",
+    "metadata": null,
+    "created": 1764850524502,
+    "settings": {
+        "is_counter": 1
+    },
+    "leg": 14,
+    "draft_picks": [
+        {
+            "round": 1,
+            "season": "2026",
+            "league_id": null,
+            "roster_id": 10,
+            "owner_id": 2,
+            "previous_owner_id": 10
         },
-        {"round": 9, "season": "2025", "league_id": None, "roster_id": 6, "owner_id": 7, "previous_owner_id": 6
+        {
+            "round": 2,
+            "season": "2026",
+            "league_id": null,
+            "roster_id": 10,
+            "owner_id": 2,
+            "previous_owner_id": 10
         },
-        {"round": 2, "season": "2025", "league_id": None, "roster_id": 7, "owner_id": 6, "previous_owner_id": 7
+        {
+            "round": 1,
+            "season": "2027",
+            "league_id": null,
+            "roster_id": 10,
+            "owner_id": 2,
+            "previous_owner_id": 10
         },
-        {"round": 7, "season": "2025", "league_id": None, "roster_id": 7, "owner_id": 6, "previous_owner_id": 7
-        },
-        {"round": 3, "season": "2026", "league_id": None, "roster_id": 7, "owner_id": 6, "previous_owner_id": 7
+        {
+            "round": 2,
+            "season": "2027",
+            "league_id": null,
+            "roster_id": 10,
+            "owner_id": 2,
+            "previous_owner_id": 10
         }
-    ], "creator": "462080029765922816", "transaction_id": "1283992956100943872", "adds": None, "drops": None, "consenter_ids": [
-        6,
-        7
-    ], "roster_ids": [
-        6,
-        7
-    ], "status_updated": 1760490342584, "waiver_budget": []
+    ],
+    "creator": "1227901533744549888",
+    "transaction_id": "1302281124105424896",
+    "adds": {
+        "6462": 2,
+        "2133": 10,
+        "4984": 10
+    },
+    "drops": {
+        "11560": 10,
+        "2133": 2,
+        "4984": 2
+    },
+    "consenter_ids": [
+        2,
+        10
+    ],
+    "roster_ids": [
+        2,
+        10
+    ],
+    "status_updated": 1764870428810,
+    "waiver_budget": []
 }
